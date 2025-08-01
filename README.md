@@ -2,6 +2,8 @@
 An optimizer built for stock market predictions and analysing risks.
 This project is a command-line tool for portfolio optimization using the knapsack algorithm. It selects a set of assets from a CSV file to maximize expected return under a capital constraint and risk tolerance. It can also plot the efficient frontier.
 
+*Kindly note that this is a concept of work which is currently being worked upon further*
+
 ## Files
 
 - `main.py`: Main script for portfolio optimization.
